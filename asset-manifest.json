@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.ab3c9868.css",
-    "main.js": "/static/js/main.06855238.js",
-    "static/js/787.5967da55.chunk.js": "/static/js/787.5967da55.chunk.js",
-    "static/media/Baskerville.woff2": "/static/media/Baskerville.12adc50fc2cf311ac1fa.woff2",
-    "static/media/Mories.woff2": "/static/media/Mories.22c843b05015fe0bfc6b.woff2",
-    "index.html": "/index.html",
-    "main.ab3c9868.css.map": "/static/css/main.ab3c9868.css.map",
-    "main.06855238.js.map": "/static/js/main.06855238.js.map",
-    "787.5967da55.chunk.js.map": "/static/js/787.5967da55.chunk.js.map"
+    "main.css": "/bap-temporary-website/static/css/main.2a911dea.css",
+    "main.js": "/bap-temporary-website/static/js/main.cf2475aa.js",
+    "static/js/787.5967da55.chunk.js": "/bap-temporary-website/static/js/787.5967da55.chunk.js",
+    "static/media/Baskerville.woff2": "/bap-temporary-website/static/media/Baskerville.12adc50fc2cf311ac1fa.woff2",
+    "static/media/Mories.woff2": "/bap-temporary-website/static/media/Mories.22c843b05015fe0bfc6b.woff2",
+    "index.html": "/bap-temporary-website/index.html",
+    "main.2a911dea.css.map": "/bap-temporary-website/static/css/main.2a911dea.css.map",
+    "main.cf2475aa.js.map": "/bap-temporary-website/static/js/main.cf2475aa.js.map",
+    "787.5967da55.chunk.js.map": "/bap-temporary-website/static/js/787.5967da55.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ab3c9868.css",
-    "static/js/main.06855238.js"
+    "static/css/main.2a911dea.css",
+    "static/js/main.cf2475aa.js"
   ]
 }
