@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+@font-face {
+  font-family: 'Mories';
+  src: url('/public/rush/Mories.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'moriesDisplay';
+  src: url('/public/rush/Baskerville.woff2') format('woff2');
+}
+
+#tsparticles {
+  position: absolute;
+  height: 95vh;
+  width: 100vw;
+  z-index: -1;
+}
